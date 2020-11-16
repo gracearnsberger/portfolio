@@ -172,7 +172,7 @@ body.fade-out {
 }
 
 .Previous:hover, .Next:hover {
-  background-color: rgb(44, 142, 207);
+  background-color:#b3cccc;
   color: white;
 }
 
