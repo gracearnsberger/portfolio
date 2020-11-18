@@ -1,2 +1,3 @@
-# Check out my portfolio website that I created using HTML, CSS, JS, & bootstrap! 
+# Check out my portfolio website!
+  I created this web application using HTML, CSS, JS, & bootstrap! 
 https://gracearnsberger.github.io/portfolio
