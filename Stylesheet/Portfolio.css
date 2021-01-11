@@ -307,7 +307,7 @@ center:hover {
 }
 
 p:hover {
-  color: #b3cccc;	
+  color: #737373;	
   text-shadow: 1px 1px #fff;
     transition: transform 1s;
 	transform: scale(1.01);
